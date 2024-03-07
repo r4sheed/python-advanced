@@ -150,3 +150,6 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# .DS_Store is a file that stores custom attributes of its containing folder, such as folder view options, icon positions, and other visual information on Mac OS.
+.DS_Store
